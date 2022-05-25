@@ -18,7 +18,7 @@ monthly_challenge = {
     "september": "Organize Hackathon Within Your Team",
     "october": "Link up with people like mad",
     "november": "You are about to make it",
-    "december": "Enjoy the success of your hardwork"
+    "december": None
 }
 
 # def january(request):
